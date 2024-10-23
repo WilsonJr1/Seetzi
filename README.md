@@ -18,6 +18,9 @@
 ### 📊 GitHub Stats:
 ![Seetzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seetzi&show_icons=true&theme=dark)
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seetzi&layout=compact&theme=dark)
+
 ---
 
 ### 🌐 Repositórios e Contribuições:
