@@ -1,4 +1,4 @@
-# Olá, Meu nome é Jose Wilson dos Santos Junior 👋
+# Olá, Meu nome é Wilson  Junior 👋
 
 🚀 Atualmente trabalho como **Suporte N2 e Q.A** na [JetSales Brasil](https://www.jetsales.com.br).  
 💼 Experiência em implantação de sistemas e gestão de atendimento.  
@@ -20,11 +20,6 @@
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seetzi&layout=compact&theme=dark)
-
----
-
-### 🌐 Repositórios e Contribuições:
-- [GitHub](https://github.com/Seetzi)
 
 ---
 
