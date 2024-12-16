@@ -1,6 +1,6 @@
 # Olá, Meu nome é Wilson  Junior 👋
 
-🚀 Atualmente trabalho como **Suporte N2 e Q.A** na [JetSales Brasil](https://www.jetsales.com.br).  
+🚀 Atualmente trabalho como ** Q.A** no [DelBank](https://delbank.com.br/index.html).  
 💼 Experiência em implantação de sistemas e gestão de atendimento.  
 📱 Trabalho com automação de testes usando **Cypress**, **Jest** e **Supertest**.
 
